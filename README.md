@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/1e99f7b1-1348-4663-a63a-4c83da25d64a
 
 ## ⚙️ Setup & Utilization
 
-### Installing
+###  Installing
 
 In order to properly replicate this setup, you will need to make sure that the following applications & dependencies are installed on your system:
 
@@ -22,7 +22,7 @@ In order to properly replicate this setup, you will need to make sure that the f
 
   (Refer to the references section to locate the URL links of the following applications & dependencies)
 
-### Repo Folder Structure
+### 📁 Repo Folder Structure
 
 Here's the folder structure for this repo:
 
@@ -37,7 +37,7 @@ Windows-11-Rice/ # Root directory.
 ```
 **For Komorebi, YASB, Oh-my-Posh, & Fastfetch, refer to their respective documentation (which will be referenced below), as well as the provided config files in order to format them properly for effective replication.**
 
-### Windows Terminal Powershell
+### 💻 Windows Terminal Powershell
 
 - Color Scheme: Banana Blueberry (Fetch from Windows Terminal Themes.)
 - Font Family: JetBrainsMonoNL Nerd Font Propo
@@ -45,7 +45,7 @@ Windows-11-Rice/ # Root directory.
 - Padding: 8, 8, 8, 8
 - Acrylic Material in Tab Row: Enabled
 
-### Layan White Cursor Set 
+### 🖱️ Layan White Cursor Set 
 
 ```
 1. Download Layan White Cursor Set from References.
@@ -53,7 +53,7 @@ Windows-11-Rice/ # Root directory.
 3. Right click the install file and click install.
 ```
 
-### Fastfetch & Cava
+### 🎶 Fastfetch & Cava
 
 - Make sure that both are configured and visible in the environment path in order to utilize them.
 - Note that after installation, restart your terminal and execute the initiate command of the respective tools in order to execute them on terminal.
