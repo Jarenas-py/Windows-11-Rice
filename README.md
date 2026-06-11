@@ -1,11 +1,11 @@
-# Windows 11 Rice
+# **Windows 11 Rice**
 
-**This repository contains my simple config files for Komorebi, YASB, Fastfetch, as well as other windows applications I utilized for my Windows 11 Rice.**
+This repository contains my simple config files for Komorebi, YASB, Fastfetch, as well as other windows applications I utilized for my Windows 11 Rice.
 
 ## Video Demonstration
 
 <video controls muted playsinline style="max-width: 100%;">
-  <source src="demo/Windows11_Demo.mp4" type="video/mp4">
+  <source src="./demo/Windows11_Demo.mp4" type="video/mp4">
 </video>
 
 ## Usage
