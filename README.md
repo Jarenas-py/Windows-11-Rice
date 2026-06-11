@@ -5,7 +5,7 @@ This repository contains my simple config files for Komorebi, YASB, Fastfetch, a
 ## Video Demonstration
 
 <video controls muted playsinline style="max-width: 100%;">
-  <source src="./demo/Windows11_Demo.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/Jarenas-py/Windows-11-Rice/main/demo/Windows11_Demo.mp4" type="video/mp4">
 </video>
 
 ## Usage
