@@ -1,4 +1,4 @@
-# **Windows 11 Rice**
+# 🪟 **Windows 11 Rice**
 
 This repository contains my simple config files for Komorebi, YASB, Fastfetch, as well as other windows applications I utilized for my Windows 11 Rice.
 
